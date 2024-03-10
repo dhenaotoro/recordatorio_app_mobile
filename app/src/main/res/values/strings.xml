@@ -4,9 +4,9 @@
     <string name="login_title_part_2">Y Alimentos</string>
     <string name="login_button">INGRESAR</string>
     <string name="login_user_field_label">Usuario</string>
-    <string name="login_user_field_placeholder">Registra tu usuario</string>
     <string name="login_password_field_label">Contraseña</string>
     <string name="login_password_field_placeholder">Registra tu contraseña</string>
     <string name="title_activity_main2">MainActivity2</string>
     <string name="fondo">Fondo</string>
+    <string name="title_activity_seleccionar_opcion">SeleccionarOpcionActivity</string>
 </resources>

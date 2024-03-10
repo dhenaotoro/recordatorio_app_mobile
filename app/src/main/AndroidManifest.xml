@@ -13,6 +13,11 @@
         android:theme="@style/Theme.RecordatorioApp"
         tools:targetApi="31">
         <activity
+            android:name=".SeleccionarOpcionActivity"
+            android:exported="false"
+            android:label="@string/title_activity_seleccionar_opcion"
+            android:theme="@style/Theme.RecordatorioApp" />
+        <activity
             android:name=".MainActivity"
             android:exported="true"
             android:label="@string/app_name"

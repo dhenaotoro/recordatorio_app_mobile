@@ -9,4 +9,10 @@
     <string name="title_activity_main2">MainActivity2</string>
     <string name="fondo">Fondo</string>
     <string name="title_activity_seleccionar_opcion">SeleccionarOpcionActivity</string>
+    <string name="opciones_alimentar_button">ALIMENTAR</string>
+    <string name="opciones_agenda_button">AGENDA</string>
+    <string name="title_activity_alimentos_lista">AlimentosListaActivity</string>
+    <string name="title_alimentar_lista">Alimentos</string>
+    <string name="title_activity_alimento_crear">AlimentoCrearActivity</string>
+    <string name="title_alimentar_crear">Crea tu alimento</string>
 </resources>

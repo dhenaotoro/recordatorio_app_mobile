@@ -126,6 +126,7 @@
                 <com.google.android.material.textfield.TextInputEditText
                     android:layout_width="match_parent"
                     android:layout_height="48dp"
+                    android:singleLine="true"
                     android:textColor="@color/gris_oscuro_primario"
                     android:textFontWeight="300"
                     android:textSize="12sp"

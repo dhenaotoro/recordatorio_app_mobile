@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recordatorio_items">
+        <item>Una vez después cada 5 minutos</item>
+        <item>Dos veces después cada 5 minutos</item>
+        <item>Una vez antes y una después en lapso de 5 minutos</item>
+        <item>Dos veces antes cada 5 minutos</item>
+    </string-array>
+</resources>

@@ -17,7 +17,7 @@
         <item name="colorOnSecondary">@color/white</item>
         <item name="colorOnBackground">@color/white</item>
         <item name="colorOnError">@color/white</item>
-        <item name="colorOnSurface">@color/white</item>
+        <item name="colorOnSurface">@color/gris_oscuro_secundario</item>
         <item name="scrimBackground">@color/white</item>
         <item name="textAppearanceHeadline1">@style/TextAppearance.MaterialComponents.Headline1
         </item>

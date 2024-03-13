@@ -18,9 +18,16 @@ class SeleccionarOpcionActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_seleccionar_opcion)
+
         val supplyButtonClick = findViewById<Button>(R.id.AlimentarButton)
         supplyButtonClick.setOnClickListener {
             val intent = Intent(this, AlimentosListaActivity::class.java)
+            startActivity(intent)
+        }
+
+        val supplyButtonDiaryClick = findViewById<Button>(R.id.AgendaButton)
+        supplyButtonDiaryClick.setOnClickListener {
+            val intent = Intent(this, AgendaListaActivity::class.java)
             startActivity(intent)
         }
     }

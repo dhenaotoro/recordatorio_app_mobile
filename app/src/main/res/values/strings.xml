@@ -15,6 +15,16 @@
     <string name="title_activity_seleccionar_opcion">SeleccionarOpcionActivity</string>
     <string name="opciones_alimentar_button">ALIMENTAR</string>
     <string name="opciones_agenda_button">AGENDA</string>
+
+    <string name="title_activity_agenda_lista">AgendaListaActivity</string>
+    <string name="title_activity_agenda_crear">CrearAgendaActivity</string>
+    <string name="title_agenda_crear">Crea tu evento</string>
+    <string name="crear_add_button">AGREGAR</string>
+    <string name="label_date_hour_ini">Fecha y hora inicio</string>
+    <string name="label_date_hour_end">Fecha y hora fin</string>
+    <string name="label_event_description">Describe tu evento</string>
+    <string name="label_add_image">Adjunta una imagen</string>
+
     <string name="title_activity_alimentos_lista">AlimentosListaActivity</string>
     <string name="title_alimentar_lista">Alimentos</string>
     <string name="title_activity_alimento_crear">AlimentoCrearActivity</string>

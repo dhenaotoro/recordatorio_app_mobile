@@ -22,6 +22,16 @@
             android:label="@string/title_activity_alimentos_lista"
             android:theme="@style/Theme.RecordatorioApp" />
         <activity
+          android:name=".AgendaListaActivity"
+          android:exported="false"
+          android:label="@string/title_activity_agenda_lista"
+          android:theme="@style/Theme.RecordatorioApp" />
+        <activity
+          android:name=".CrearAgendaActivity"
+          android:exported="false"
+          android:label="@string/title_activity_agenda_crear"
+          android:theme="@style/Theme.RecordatorioApp" />
+        <activity
             android:name=".SeleccionarOpcionActivity"
             android:exported="false"
             android:label="@string/title_activity_seleccionar_opcion"
